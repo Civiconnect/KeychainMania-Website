@@ -1,0 +1,23 @@
+[
+    {
+        "brand": "Superman Enamel Keychain",
+        "model": "RG5-Marvel",
+        "price": 4.99,
+        "image": "/images/keychains/Superman Enamel Keychain.jpg"
+    },
+
+    {
+        "brand": "Bluejays Keychain",
+        "model": "RKL-Sport",
+        "price": 7.99,
+        "image": "/images/keychains/Bluejays Keychain.jpg"
+    },
+
+    {
+        "brand": "Harry Potter Keychain",
+        "model": "RH8-HP",
+        "price": 8.99,
+        "image": "/images/keychains/Harry Potter Keychain.jpg"
+    }
+
+]

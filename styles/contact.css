@@ -1,0 +1,127 @@
+#item3 {
+    color: rgb(0, 213, 255);
+}
+
+.contact-info {
+    width: 1000px;
+    height: 450px;
+    margin: auto;
+    background-image: url("/images/Contact-Pic.png");
+    background-size: cover;
+    border-radius: 15px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 3%
+}
+
+@import url('https://fonts.cdnfonts.com/css/segoe-condensed');
+
+#contact-title {
+    font-family: 'Segoe Condensed', sans-serif;
+    font-size: 38px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 2%;
+    padding-top: 4%;
+}
+
+.info {
+    font-family: 'Segoe Condensed', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 50%;
+    margin-top: 5%;
+}
+
+.cinfo {
+    font-family: 'Segoe Condensed', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 49%;
+    padding: 1%;
+}
+
+.cinfo1 {
+    font-family: 'Segoe Condensed', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 50%;
+    margin-top: 2%;
+}
+
+#action-line {
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Segoe Condensed', sans-serif;
+    font-weight: 600px;
+}
+
+.contact-form {
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+
+#name {
+    width: 1000px;
+    height: 45px;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 1px;
+}
+
+#email {
+    width: 1000px;
+    height: 45px;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 1px;
+}
+
+#message {
+    resize: none;
+    width: 1000px;
+    height: 225px;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 1px;
+}
+
+label, input {
+    display: block;
+    font-family: 'Segoe Condensed', sans-serif;
+    font-size: 22px;
+}
+
+label {
+    font-family: 'Segoe Condensed', sans-serif;
+    margin-top: 3px;
+    font-size: 25px;
+}
+button {
+    font-family: 'Segoe Condensed', sans-serif;
+    font-size: 20px;
+    color:black;
+    text-align: center;
+    width: fit-content;
+    background-color: rgb(202, 185, 216);
+    margin-top: 3%;
+    margin-left: 465px;
+    margin-bottom: 5%;
+    padding: 12px;
+    border-width: 1px;
+    border-style:  outset;
+    border-color: black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: grey;
+    opacity: 90%;
+}
+
+body {
+    background-color: rgba(160, 243, 237, 0.379);
+}
