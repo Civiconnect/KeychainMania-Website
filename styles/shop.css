@@ -183,7 +183,7 @@ p, a, li, span, input, textarea, select, button {
   }
 
 
-  #text:hover{
+  .text:hover{
     text-decoration: underline;
     text-decoration-thickness: 2px;
     cursor: pointer;
