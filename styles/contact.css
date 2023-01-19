@@ -6,7 +6,7 @@
     width: 1000px;
     height: 450px;
     margin: auto;
-    background-image: url("/KeychainMania-Website/images/contact-pic.png");
+    background-image: url("/KeychainMania-Website/images/Contact-Pic.png");
     background-size: cover;
     border-radius: 15px;
     border-color: black;
@@ -55,16 +55,20 @@
     text-align: center;
     font-family: 'Segoe Condensed', sans-serif;
     font-weight: 600px;
+    margin-bottom: 1%;
 }
 
 .contact-form {
+    max-width: 1010px;
+    width: 65vw;
     margin-top: 2%;
-    margin-left: 23%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
 #name {
-    width: 1000px;
+    width: 100%;
     height: 45px;
     border-radius: 10px;
     border-color: black;
@@ -72,7 +76,7 @@
 }
 
 #email {
-    width: 1000px;
+    width: 100%;
     height: 45px;
     border-radius: 10px;
     border-color: black;
@@ -81,7 +85,7 @@
 
 #message {
     resize: none;
-    width: 1000px;
+    width: 100%;
     height: 225px;
     border-radius: 10px;
     border-color: black;
@@ -101,17 +105,20 @@ label {
 }
 button {
     font-family: 'Segoe Condensed', sans-serif;
-    font-size: 20px;
-    color:black;
+    display: block;
+    width: 80px;
+    height: 50px;
     text-align: center;
-    width: fit-content;
     background-color: rgb(202, 185, 216);
-    margin-top: 3%;
-    margin-left: 465px;
-    margin-bottom: 5%;
+    font-size: 22px;
     padding: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    margin-bottom: 4%;
+    border-radius: 8px;
     border-width: 1px;
-    border-style:  outset;
+    border-style: solid;
     border-color: black;
     border-radius: 8px;
     cursor: pointer;
