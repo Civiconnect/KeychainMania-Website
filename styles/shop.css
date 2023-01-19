@@ -182,11 +182,23 @@ p, a, li, span, input, textarea, select, button {
     opacity: 80%;
   }
 
+
+  #text:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    cursor: pointer;
+  }
+
   #text2:hover{
     text-decoration: underline;
     text-decoration-thickness: 2px;
     cursor: pointer;
+  }
 
+  #text3:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    cursor: pointer;
   }
 
   body {
