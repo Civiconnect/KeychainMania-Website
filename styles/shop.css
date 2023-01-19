@@ -202,8 +202,6 @@ p, a, li, span, input, textarea, select, button {
   }
 
   body {
-    /*background-color: rgba(252, 255, 205, 0.415);
-    /*background-color: rgb(238, 232, 219);*/
     background-color: rgba(160, 243, 237, 0.379);
     opacity: 95%;
   }
